@@ -1,4 +1,4 @@
-# STM32 SRF0X Library
+# SRF0X STM32 Library
 
 A lightweight library for interfacing SRF04 and SRF05 ultrasonic distance sensors with STM32 microcontrollers using HAL drivers. Supports blocking measurements in microseconds and centimeters.
 
@@ -48,7 +48,7 @@ A lightweight library for interfacing SRF04 and SRF05 ultrasonic distance sensor
 1. **Clone or download** this repository:
 
    ```bash
-   git clone https://github.com/alixahedi/STM32-SRF0X.git
+   git clone https://github.com/alixahedi/SRF0X-STM32.git
    ```
 2. **Copy source files** into your project:
 
